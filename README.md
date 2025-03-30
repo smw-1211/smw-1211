@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate to **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[Github](https://www.github.com/smw-1211)**
+- 👨‍💻 All of my projects are available **[here..](https://www.github.com/smw-1211)**
 
 - 📫 Reach out to me at **wattamwarsoham2000@gmail.com** to discuss more about technical concepts :smile:
 
