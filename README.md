@@ -13,6 +13,6 @@
 
 - 👨‍💻 All of my projects are available **[here..](https://www.github.com/smw-1211)**
 
-- 📫 Reach out to me at **wattamwarsoham2000@gmail.com** to discuss more about technical concepts :smile:
+- 📫 Reach out to me at **wattamwarsoham2000@gmail.com** to discuss more about technical concepts :smiley:
 
 - ⚡ Fun fact **I think 1 day I can surely be the most valuable software developer 😎**
