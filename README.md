@@ -1,16 +1,18 @@
-## Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**smw-1211/smw-1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Soham Manoj Wattamwar</h1>
+<h3 align="center">A perseverant developer and a technogeek</h3>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in **[UST](https://www.ust.com/)**
+
+- 🌱 I’m currently spending my time in learning **Golang, ASP.Net Core and gRPC**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[Github](https://www.github.com/smw-1211)**
+
+- 📫 Reach out to me at **wattamwarsoham2000@gmail.com** to discuss more about technical concepts :smile:
+
+- ⚡ Fun fact **I think 1 day I can surely be the most valuable software developer 😎**
