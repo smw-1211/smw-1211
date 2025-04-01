@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[UST](https://www.ust.com/)**
+- 🔭 I’m currently working at **[UST](https://www.ust.com/)** as SDE-II
 
 - 🌱 I’m currently spending my time in learning **Golang, ASP.Net Core and gRPC**
 
