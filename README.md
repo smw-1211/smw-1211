@@ -15,4 +15,4 @@
 
 - 📫 Reach out to me at **wattamwarsoham2000@gmail.com** to discuss more about emerging tech :smiley:
 
-- ⚡ Fun fact **1 day I'll surely be the most valuable software developer 😎**
+- ⚡ Fun fact: **1 day I'll surely be the most valuable software developer 😎**
