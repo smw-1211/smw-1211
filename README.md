@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang, ASP.Net Core and gRPC**
 
-- 👯 Looking to collaborate to **OpenSource Projects**
+- 👯 **Open-source enthusiast**, looking to collaborate and contribute
 
 - 👨‍💻 All my projects are available **[here..](https://www.github.com/smw-1211)**
 
